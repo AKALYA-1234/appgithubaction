@@ -1,4 +1,5 @@
 🛒 Kroger Members Dataset
+
 📄 Overview
 
 The Kroger Members Dataset contains information on customer membership status within the Kroger loyalty program.
@@ -42,3 +43,8 @@ Membership Penetration Rate → Percentage of customers with has_member_card = '
 Targeted Outreach → Identify and target customers without a membership
 
 Behavior Analysis → Combine with transaction data to study spending patterns of members vs non-members
+
+pie chart for membershi and non-membership:
+<img width="850" height="856" alt="kroger_membership_pie (1)" src="https://github.com/user-attachments/assets/97d9d0f1-de1e-4fc3-8ae0-fc8a6f4b094d" />
+
+
